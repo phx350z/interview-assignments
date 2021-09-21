@@ -14,8 +14,7 @@
         "resolveJsonModule": true,
         "isolatedModules": true,
         "jsx": "react",
-        "baseUrl": "./src",
-        "paths": { "@/*": ["./*"] }
+        "baseUrl": "."
       },
       "include": ["src"]
   }
